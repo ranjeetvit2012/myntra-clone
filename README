@@ -1,0 +1,58 @@
+
+# 🛍️ Myntra Clone
+
+This is a fully responsive **Myntra Clone** created using **HTML**, **CSS**, and **JavaScript**. It replicates the core features and user interface of the popular Indian fashion e-commerce platform, **Myntra**, for learning and demonstration purposes.
+
+## 🔥 Features
+
+- ✅ Responsive Home Page with Banners
+- ✅ Product Listing Page (PLP)
+- ✅ Product Detail Page (PDP)
+- ✅ Add to Cart Functionality
+- ✅ Local Storage-based Cart Management
+
+
+## 🛠️ Technologies Used
+
+- **HTML5** – For page structure  
+- **CSS3** – For styling and responsive layout  
+- **JavaScript (ES6)** – For interactivity and dynamic cart functionality  
+
+## 📸 Screenshots
+
+*Add screenshots of your homepage, product page, and cart page here.*
+
+## 🚀 Getting Started
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/yourusername/myntra-clone.git
+   ```
+2. Navigate into the project folder:
+   ```bash
+   cd myntra-clone
+   ```
+3. Open `index.html` in your browser.
+
+## 📁 Folder Structure
+
+```
+myntra-clone/
+├── index.html
+├── product.html
+├── cart.html
+├── css/
+│   └── styles.css
+├── js/
+│   └── script.js
+├── assets/
+│   └── images/
+```
+
+## 🙏 Acknowledgements
+
+This is a personal project for educational purposes only. All trademarks and brand logos used belong to their respective owners.
+
+## 📬 Contact
+
+For any feedback or questions, reach out at: **your-email@example.com**
